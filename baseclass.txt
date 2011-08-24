@@ -7,4 +7,5 @@ public class BeeperPickingKarel extends Karel {
 		pickBeeper();
 		move();
 	}
+/*Debug lines added to demonstarte */
 }
