@@ -1,0 +1,8 @@
+public class RoadRepairKarel extends SuperKarel {
+	public void run() {
+	while (frontIsClear()) {
+	move();
+	fillPothole();
+	move();
+	}
+}
