@@ -1,0 +1,10 @@
+/*
+This is the public class used across the project
+*/
+public class BeeperPickingKarel extends Karel {
+	public void run() {
+		move();
+		pickBeeper();
+		move();
+	}
+}
