@@ -1,0 +1,12 @@
+public class PotholeFillingKarel extends SuperKarel {
+	public void run() {
+	  move();
+	  turnRight();
+	  move();
+	  putBeeper();
+	  turnAround();
+	  move();
+	  turnRight();
+	  move();
+	}
+}
