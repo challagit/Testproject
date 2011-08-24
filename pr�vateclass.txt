@@ -1,0 +1,10 @@
+private void fillPothole() {
+	turnRight();
+	move();
+	if (noBeepersPresent()) {
+		putBeeper();
+	}
+	turnAround();
+	move();
+	turnRight();
+}
