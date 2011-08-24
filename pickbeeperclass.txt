@@ -9,4 +9,5 @@ public class PotholeFillingKarel extends SuperKarel {
 	  turnRight();
 	  move();
 	}
+/* bug info
 }
