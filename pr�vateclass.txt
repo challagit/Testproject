@@ -1,3 +1,4 @@
+/*Function to establish connectio*/
 private void fillPothole() {
 	turnRight();
 	move();
